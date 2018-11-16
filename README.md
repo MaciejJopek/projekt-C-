@@ -12,3 +12,4 @@ opartego o płytkę arduino. Zadaniem wyżej wymienionego elemetu będzie:
  W projekcie bedzie wykorzystywane biblioteki:
 * Servo, która umożliwia Arduino kontrolowanie 4 silników bezszczotkowych wykorzystywanych przy budownie drona.
 * MPU6050, która pozwala na odczyt danych z akcelerometru i żyroskopu potrzebnych do stabilizacji lotu 
+* Wire.h blioteka umożliwiająca komunikację z urządzeniami I2C / TWI
