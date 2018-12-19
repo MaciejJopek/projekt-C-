@@ -18,7 +18,7 @@ void setup() {
   Wire.write(0);
   Wire.endTransmission(true);
   czas = millis();
-  Serial.begin(9600);
+  Serial.begin(250000);
 }
 
 void loop() {
